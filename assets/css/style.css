@@ -10,7 +10,8 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color:#fff;
+  background-color: black;
 }
 
 a {
@@ -527,7 +528,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f1f1f1;
+  background-color:black;
 }
 
 .section-title {
@@ -631,7 +632,7 @@ section {
   line-height: 40px;
   display: block;
   font-weight: 700;
-  color: #2a2a2a;
+  color:#fff;
   margin-left: 60px;
 }
 
@@ -917,7 +918,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  background:black; 
   padding: 60px 0;
 }
 
@@ -1102,6 +1103,7 @@ section {
 --------------------------------------------------------------*/
 .faq .faq-list {
   padding: 0 100px;
+  background-color:black;
 }
 
 .faq .faq-list ul {
@@ -1115,7 +1117,6 @@ section {
 
 .faq .faq-list li {
   padding: 20px;
-  background: #fff;
   border-radius: 4px;
   position: relative;
 }
@@ -1156,7 +1157,7 @@ section {
 }
 
 .faq .faq-list a.collapsed {
-  color: #343a40;
+  color:#fff;
 }
 
 .faq .faq-list a.collapsed:hover {
